@@ -4,12 +4,12 @@ font-family: "Montserrat", sans-serif;
 font-optical-sizing: auto;
 font-weight: 90px;
 font-style: normal;
-color: rgb(0, 0, 0);
+color: rgb(245, 245, 245);
 background-image: url("background.jpg");
 
 }
  #name{
-    color: black;
+    color: rgb(255, 255, 255);
     float: right;
     position: relative;
     right: 10%;
@@ -23,13 +23,13 @@ img{
     border: 1px solid blac;
 }
 .mainbody{
-    background-color: rgb(0, 136, 255);
+    background-color: rgb(16, 57, 94);
     margin: 10%;
     padding: 10%;
 }
 
 #aboutme{
-    background-color: rgb(243, 220, 224);
+    background-color: rgb(252, 253, 255);
     color: rgb(0, 0, 0);
     padding-top: 3%;
     padding-bottom: 3%;

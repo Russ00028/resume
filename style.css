@@ -1,0 +1,38 @@
+body{
+background-color: rgb(234, 245, 255);
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-weight: 90px;
+font-style: normal;
+color: rgb(0, 0, 0);
+}
+ #name{
+    color: black;
+    float: right;
+    position: relative;
+    right: 10%;
+
+ }
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    border: 1px solid blac;
+}
+.mainbody{
+    margin: 10%;
+}
+
+#aboutme{
+    background-color: rgb(46, 23, 27);
+    color: rgb(0, 0, 0);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+}
+#imgrss{
+    background-color: none;
+    padding: 10px;
+  
+}
